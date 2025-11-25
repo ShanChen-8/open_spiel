@@ -301,6 +301,7 @@ if (OPEN_SPIEL_ENABLE_PYTORCH)
       pytorch/policy_gradient_pytorch_test.py
       pytorch/ppo_pytorch_test.py
       pytorch/neurd_pytorch_test.py
+      pytorch/torch_envs_test.py
   )
 endif()
 
